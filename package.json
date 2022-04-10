@@ -1,0 +1,21 @@
+{
+  "name": "bot-tw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "image-downloader": "^4.1.0",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.11.3",
+    "twitter-v2": "^1.1.0"
+  }
+}
